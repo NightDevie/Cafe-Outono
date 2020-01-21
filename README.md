@@ -1,4 +1,4 @@
-# Cafe-Outono
+# Café-Outono
 
 Desenvolvido na Escola Secundária de Castelo de Paiva Prova de Aptidão Profissional - Técnico de Gestão e Programação de Sistemas Informáticos
 
